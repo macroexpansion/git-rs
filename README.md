@@ -1,3 +1,3 @@
 # Rit
 
-** Git but in Rust
+**Git but in Rust**
