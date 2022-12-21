@@ -1,0 +1,11 @@
+[package]
+name = "rit_commands"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+init = { version = "0.1.0", path = "src/init" }
+push = { version = "0.1.0", path = "src/push" }
+diff = { version = "0.1.0", path = "src/diff" }

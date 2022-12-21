@@ -2,7 +2,10 @@
 resolver = "2"
 members = [
 	"rit_cli",
-	"rit_init",
+	"rit_commands",
+	"rit_commands/src/push",
+	"rit_commands/src/init",
+	"rit_commands/src/diff",
 ]
 
 [profile.dev]
